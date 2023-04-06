@@ -2,4 +2,4 @@
 
 - 🌱 I’m currently a student at Indian Institute of Technology, Goa
 
-- 👀 I’m interested in CP for now.
+- 👀 I’m interested in CP.
